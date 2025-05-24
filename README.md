@@ -1,2 +1,6 @@
-# R4A11_cours_recyclerview
-Exemple pour le cours les composants graphiques avancés
+# Composants graphiques avancées
+
+Exemple de développement en utilisant une RecyclerView
+
+
+**Cet exemple est utilisée dans le cours**
